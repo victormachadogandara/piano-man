@@ -1,0 +1,26 @@
+﻿<Window x:Class="piano_man.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:piano_man"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="720.5">
+    <Grid HorizontalAlignment="Left" Width="724">
+        <Button Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="100
+                " RenderTransformOrigin="-0.14,1.2" Height="399" Background="White"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="110,10,0,0" VerticalAlignment="Top" Width="100                 " RenderTransformOrigin="-0.14,1.2" Height="399" Background="White"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="210,10,0,0" VerticalAlignment="Top" Width="100                 " RenderTransformOrigin="-0.14,1.2" Height="399" Background="White"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="310,10,0,0" VerticalAlignment="Top" Width="100                 " RenderTransformOrigin="-0.14,1.2" Height="399" Background="White"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="410,10,0,0" VerticalAlignment="Top" Width="100                 " RenderTransformOrigin="-0.14,1.2" Height="399" Background="White"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="510,10,0,0" VerticalAlignment="Top" Width="100                 " RenderTransformOrigin="-0.14,1.2" Height="399" Background="White"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="610,10,0,0" VerticalAlignment="Top" Width="100                 " RenderTransformOrigin="-0.14,1.2" Height="399" Background="White"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="80,10,0,0" VerticalAlignment="Top" Width="60
+                " RenderTransformOrigin="-0.14,1.2" Height="212" Background="Black"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="180,10,0,0" VerticalAlignment="Top" Width="60                 " RenderTransformOrigin="-0.14,1.2" Height="212" Background="Black"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="381,10,0,0" VerticalAlignment="Top" Width="60                 " RenderTransformOrigin="-0.14,1.2" Height="212" Background="Black"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="480,10,0,0" VerticalAlignment="Top" Width="60                 " RenderTransformOrigin="-0.14,1.2" Height="212" Background="Black"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="580,10,0,0" VerticalAlignment="Top" Width="60                 " RenderTransformOrigin="-0.14,1.2" Height="212" Background="Black"/>
+
+    </Grid>
+</Window>
